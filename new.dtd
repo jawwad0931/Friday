@@ -1,0 +1,11 @@
+<!ELEMENT Aptech-Karachi (Clifton-Branch, Chundrigarh-Branch, Shikarpur-Branch)>
+
+<!ELEMENT Clifton-Branch (departmentHead, SRO, Admission, Faculty, Fees)>
+<!ELEMENT Chundrigarh-Branch (departmentHead, SRO, Admission, Faculty, Fees)>
+<!ELEMENT Shikarpur-Branch (departmentHead, SRO, Admission, Faculty, Fees)>
+
+<!ELEMENT departmentHead (#PCDATA)>
+<!ELEMENT SRO (#PCDATA)>
+<!ELEMENT Admission (#PCDATA)>
+<!ELEMENT Faculty (#PCDATA)>
+<!ELEMENT Fees (#PCDATA)>

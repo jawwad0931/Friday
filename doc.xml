@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Aptech-Karachi SYSTEM "new.dtd">
+<Aptech-Karachi>
+    <Clifton-Branch>
+    <departmentHead>Sir Ali</departmentHead>   
+    <SRO>Sir murshid</SRO>
+    <Admission>Sir Younus</Admission>
+    <Faculty>Sir Ameen</Faculty>
+    <Fees>Mr Karmran</Fees>
+    </Clifton-Branch>
+     <Chundrigarh-Branch>
+    <departmentHead>Sir Muhammad</departmentHead>   
+    <SRO>Sir jalil</SRO>
+    <Admission>Sir Khan</Admission>
+    <Faculty>Sir rashid</Faculty>
+    <Fees>Mr Malik</Fees>
+    </Chundrigarh-Branch>
+</Aptech-Karachi>
+   
+    <!-- <Shikarpur-Branch>
+    <departmentHead>Sir Muhammad</departmentHead>   
+    <SRO>Sir jalil</SRO>
+    <Admission>Sir Khan</Admission>
+    <Faculty>Sir rashid</Faculty>
+    <Fees>Mr Malik</Fees>
+    </Shikarpur-Branch> -->
